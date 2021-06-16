@@ -5,26 +5,25 @@
 
 # Teach Store BD
 
-This is Tech Store website. In this website, have the shooping cart facility with redux.
+Tech Store BD  is a E-commerce website that state maintaining by Redux and React
  In this project.
 
  1. User Show All product in home page
  2. User see a specific product Details 
- 3. User Can add to Cart 
- 4. Remove Add to Cart 
+ 3. User can see the product and price they can order it.
+ 4. Users can select the item and it saved on cart
+ 5. User also order it.
+ 6. User will remove the product from cart
 
 
  ## Technology: 
 CSS Module, Bootstrap, React Js, React Router, Redux
 
-You can visit the live site: [Premier Sports Team](https://premier-sports-team.netlify.app/)
+You can visit the live site: [Premier Sports Team](https://wizardly-darwin-af6349.netlify.app/)
 
 
 
 ## Project setup: 
 
 1. Project Manager - Shahin Shah
-2. Developer - Shahriar Hoq Shubho
-
-
-
+2. Developer - Shahriar Hoq Shubho 
