@@ -1,10 +1,11 @@
-Project Name: Teach Store BD
+## Wekcome the repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-1. Project Manager - Shahin Shah
- email: 
- 2. Developer - Shahriar Hoq Shubho
- email: shubha.shahriar@gmail.com
 
+:mailbox: Let know the project!
+
+# Teach Store BD
+
+This is Tech Store website. In this website, have the shooping cart facility with redux.
  In this project.
 
  1. User Show All product in home page
@@ -12,12 +13,18 @@ Project Name: Teach Store BD
  3. User Can add to Cart 
  4. Remove Add to Cart 
 
- Work: 
- 1. Shahin Shah- Home Page 
- 2. Shahriar Shubho - Redux
- 3. Shubho - Done the project.
 
- Github Owener - Shahin Shah
+ ## Technology: 
+CSS Module, Bootstrap, React Js, React Router, Redux
 
-Github Pull- Shahariar Shubho
-Here the live site link: 
+You can visit the live site: [Premier Sports Team](https://premier-sports-team.netlify.app/)
+
+
+
+## Project setup: 
+
+1. Project Manager - Shahin Shah
+2. Developer - Shahriar Hoq Shubho
+
+
+
